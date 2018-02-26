@@ -1,0 +1,31 @@
+html, body {
+    background-color: #eee;
+}
+.hero img {
+  margin: 0px; 
+  width: 100%;
+}
+.header {
+    margin-top: 2%;
+    text-align: center;
+    width: 100%;
+}
+
+.teambox {
+    background-color: #ddd;
+    min-height: 80px;
+    width: 100%;
+}
+
+footer {
+  background-color: #333;
+  height: 50px;
+  margin-top: 60px;
+  width: 100%:
+}
+
+@media (max-width: 550px) {
+  iframe {
+    width: 100%;
+  }
+}
