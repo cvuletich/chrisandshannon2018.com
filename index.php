@@ -504,8 +504,8 @@
                 <div class="col-md-4 contact-details">
                     <h4><i class="fa fa-envelope"></i> Email</h4>
                     <p>
-                      <a href="mailto:mail@example.com">cvuletich@gmail.com</a>
-                      <a href="mailto:mail@example.com">shannonppd@gmail.com</a>
+                      <a href="mailto:cvuletich@gmail.com">cvuletich@gmail.com</a>
+                      <a href="mailto:shannonppd@gmail.com">shannonppd@gmail.com</a>
                     </p>
                 </div>
             </div>
